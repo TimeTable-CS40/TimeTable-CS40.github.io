@@ -1,0 +1,94 @@
+body{
+    text-align: center; 
+    color: aliceblue;   
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size:100% ;
+    margin-top: 4%;
+    
+}
+a{
+    text-decoration: none;
+    color: rgb(231, 158, 221);
+}
+a:hover{
+    color: rgb(222, 55, 199);
+}
+
+
+
+.cse38{
+    width: 60%;
+    position: relative;
+    bottom: 1rem;
+}
+.dt{
+    padding: 1.3rem 1.6rem 1.3rem 1.6rem;
+    
+}
+
+
+.section{
+    font-size: 5rem;
+    
+    font-family: 'Fredericka the Great', cursive;
+    font-weight: normal;
+    position: relative;
+    bottom: 1.4rem;
+    color: rgb(158, 198, 231);
+} 
+
+table{
+    font-family: 'Fredericka the Great', cursive;
+    width: 80%;
+    border: 2px;
+    border-style: solid;
+    border-color: aliceblue;
+    border-collapse:collapse ;
+    position: relative;
+    top:0rem;
+    padding: auto;
+    
+}
+
+.table th{
+    color: rgb(227, 231, 158);
+    border-color: rgb(180, 161, 161);
+}
+.table td{
+    color: rgb(231, 158, 221);
+    border-color: rgb(180, 161, 161);
+}
+td{
+    font-size: 1.2rem;
+    padding:1%;
+    border-style: solid;
+    font-weight:lighter
+}
+th{
+    font-size: 1.30rem;
+    padding: 0%;
+    padding-left: 10px;
+    padding-right: 10px;
+    border-style: solid;
+    font-weight:normal
+
+}
+
+h4{
+    margin: 0%;
+}
+
+nav{
+    margin: 0px 20px 20px 20px;
+    display:inline-block;
+    position: relative;
+    bottom: 1rem;
+}
+
+.table .weekname{
+    color: rgb(158, 227, 231);
+
+}
+
+
